@@ -1,0 +1,1 @@
+This is a basic html site to practice links and images.
