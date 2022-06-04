@@ -1,7 +1,8 @@
 #title {
     color:red;
-    font-size: 32;
+    font-size: 37px;
     font-weight: bold;
+    font-family:Georgia, 'Times New Roman', Times, serif
 
 }
 
@@ -9,5 +10,6 @@
     color: blue;
     font-size: 22;
     font-weight: 600;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 
 }
